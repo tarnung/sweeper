@@ -1,0 +1,12 @@
+/*.log
+/target
+/*-init.clj
+/resources/public/js/compiled
+out
+
+#cursive
+*.iml
+/.idea/**
+
+#figwheel
+.rebel_readline_history
